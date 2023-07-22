@@ -1,3 +1,8 @@
+"""
+Após inicializada, a aplicação solicita ao usuário escolher o que deseja fazer no banco, como criar
+uma conta, efetuar saque, efetuar depósito, efetuar transferência, listar contas ou sair do sistema.
+"""
+
 from typing import List
 from time import sleep
 
